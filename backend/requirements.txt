@@ -1,0 +1,11 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+sqlalchemy==2.0.41
+psycopg2-binary==2.9.10
+python-jose==3.5.0
+passlib[bcrypt]==1.7.4
+pydantic==2.11.4
+celery==5.5.3
+redis==6.0.0
+pytest==8.3.5
+httpx==0.28.1
